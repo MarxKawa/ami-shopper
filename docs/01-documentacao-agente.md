@@ -63,9 +63,9 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [Streamlit] |
+| Interface | [ChatGPT] |
 | LLM | [GPT-4 via API] |
-| Base de Conhecimento | [JSON/CSV com dados do cliente] |
+| Base de Conhecimento | [MD com dados das políticas] |
 | Validação | [Checagem de alucinações] |
 
 ---
