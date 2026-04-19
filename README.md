@@ -15,18 +15,6 @@ O Ami não é apenas um chatbot genérico, ele possui uma persona desenhada para
 * **Tom de Voz:** Informal, Técnico e Didático.
 * **Segurança em 1º Lugar:** O agente opera sob regras estritas de *anti-alucinação*. Ele baseia suas respostas estritamente nos dados fornecidos, admite quando não tem a informação e é bloqueado para não compartilhar dados sensíveis.
 
-## 🏗️ Arquitetura do Projeto
-
-A arquitetura foi estruturada para manter a segurança das informações ao mesmo tempo em que oferece escalabilidade:
-
-```mermaid
-flowchart TD
-    A[Associado / Equipe CX] -->|Mensagem| B[Interface Streamlit]
-    B --> C[LLM GPT-4]
-    C <--> D[Base de Conhecimento]
-    C --> E[Validação Anti-Alucinação]
-    E --> F[Resposta Segura]
-
 ## Estrutura do Repositório
 
 ```
