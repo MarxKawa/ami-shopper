@@ -6,22 +6,19 @@
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Atualmente recebemos um grande volume de ligações sobre as políticas de trocas e devoluções do nosso Marketplace.
+Atualmente recebemos um grande volume de ligações sobre as políticas de trocas e devoluções do nosso Marketplace.
 
-[Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> O agente, baseado na documentação da nossa política, responde as dúvidas dos associados. 
+ O agente, baseado na documentação da nossa política, responde as dúvidas dos associados. 
 
-[Sua descrição aqui]
 
 ### 3. Demonstração (1 min)
-> Agente em funcionammento. 
+Agente em funcionammento. 
 
-[Descreva o que será mostrado]
 
 ### 4. Diferencial e Impacto (30 seg)
-> Ela é inovadora pois até então não temos um agente dedicado às dúvidas do nosso marketplace e isso irá impactar diretamente na nossa volummetria de atendimento humano. 
+Ela é inovadora pois até então não temos um agente dedicado às dúvidas do nosso marketplace e isso irá impactar diretamente na nossa volummetria de atendimento humano. 
 
 ---
 
