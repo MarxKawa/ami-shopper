@@ -6,7 +6,7 @@ Arquivo da pasta `data`, por exemplo:
 
 | Arquivo | Formato | Para que serve no Ami? |
 |---------|---------|---------------------|
-| `base_shopping_sicredi.md` | URL | Contextualizar sobre as regras e políticas de Trocas e Devoluções |
+| `base_shopping_sicredi.md` | MD | Contextualizar sobre as regras e políticas de Trocas e Devoluções |
 
 
 ---
@@ -15,7 +15,7 @@ Arquivo da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-Inserido o arquivo com a URL do setor de Trocas e Devoluções do site Shopping do Sicredi. 
+Inserido o arquivo com as políticas e regras do setor de Trocas e Devoluções do site Shopping do Sicredi. 
 
 ---
 
@@ -24,12 +24,12 @@ Inserido o arquivo com a URL do setor de Trocas e Devoluções do site Shopping 
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-A URL é carregada no início da sessão e os dados incluídos no contexto do prompt.
+O arquivo é carregado no início da sessão e os dados incluídos no contexto do prompt.
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-São consultados dinamicamente na URL.
+São consultados dinamicamente no arquivo.
 
 ---
 
