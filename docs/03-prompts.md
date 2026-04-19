@@ -84,7 +84,7 @@ Não tenho acesso a senhas e não posso compartilhar informações de outros ass
 
 **Usuário:**
 ```
-Onde devo gastar meus pontos no Shopping. 
+Onde devo gastar meus pontos no Shopping?
 ```
 
 **Agente:**
