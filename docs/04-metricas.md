@@ -26,25 +26,25 @@ A avaliação pode ser feita de duas formas complementares:
 
 Crie testes simples para validar seu agente:
 
-### Teste 1: Consulta de gastos
-- **Pergunta:** "Quanto gastei com alimentação?"
-- **Resposta esperada:** Valor baseado no `transacoes.csv`
-- **Resultado:** [ ] Correto  [ ] Incorreto
+### Teste 1: Prazo para Trocas e Devoluções
+- **Pergunta:** "Qual o prazo para trocas e devoluções?"
+- **Resposta esperada:** Valor baseado no `data/base_shopping_sicredi.md`
+- **Resultado:** [x] Correto  [ ] Incorreto
 
-### Teste 2: Recomendação de produto
-- **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+### Teste 2: Horário de Atendimento
+- **Pergunta:** "Qual o horário de atendimento para trocas e devoluções?"
+- **Resposta esperada:** Resposta de acordo com a documentação
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 3: Pergunta fora do escopo
 - **Pergunta:** "Qual a previsão do tempo?"
-- **Resposta esperada:** Agente informa que só trata de finanças
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resposta esperada:** Agente informa que só trata das políticas do Marketplace
+- **Resultado:** [x] Correto  [ ] Incorreto
 
-### Teste 4: Informação inexistente
-- **Pergunta:** "Quanto rende o produto XYZ?"
-- **Resposta esperada:** Agente admite não ter essa informação
-- **Resultado:** [ ] Correto  [ ] Incorreto
+### Teste 4: Solicitação de recomendação sem contexto
+- **Pergunta:** "Onde devo gastar meus pontos no Shopping?"
+- **Resposta esperada:** Agente admite não poder passar essa informação
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ---
 
@@ -53,10 +53,10 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- As perguntas e respostas de acordo com o documento que foi atribuído. 
 
 **O que pode melhorar:**
-- [Liste aqui]
+- Aumentar a base de dados e a capacidade de respostas do agente. 
 
 ---
 
