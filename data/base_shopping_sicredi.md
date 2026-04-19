@@ -1,6 +1,6 @@
 [Shopping do Sicredi - Trocas e Devoluções](https://shopping.sicredi.com.br/trocas-e-devolucoes)
 
-1. Condições Gerais
+>>1. Condições Gerais
 
 1.1. O prazo para trocas e devoluções de produtos é de até 7 (sete) dias corridos, a contar da data de entrega, conforme previsto no CDC (Código de Defesa do Consumidor).
 
