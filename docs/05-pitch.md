@@ -34,6 +34,6 @@ Ela é inovadora pois até então não temos um agente dedicado às dúvidas do 
 
 ## Link do Vídeo
 
-> Link do seu pitch (YouTube)
+> Link do pitch (YouTube)
 
 [Ami - Assistente - Shopping do Sicredi](https://youtu.be/XAaN5ALzet0)
