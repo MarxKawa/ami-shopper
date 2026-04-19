@@ -99,4 +99,4 @@ Para fazer uma recomendação adequada, preciso entender qual a sua intenção d
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
 - Ajustados prompts de acordo com a proposta do agente (responder sobre políticas do marketplace);
-- Aprendi que o agente pode ir além e auzilairauxiliar ainda mais com a informações do site. 
+- Aprendi que o agente pode ir além e auxiliar ainda mais com a informações do site. 
