@@ -6,34 +6,32 @@
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+> Atualmente recebemos um grande volume de ligações sobre as políticas de trocas e devoluções do nosso Marketplace.
 
 [Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+> O agente, baseado na documentação da nossa política, responde as dúvidas dos associados. 
 
 [Sua descrição aqui]
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+> Agente em funcionammento. 
 
 [Descreva o que será mostrado]
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+> Ela é inovadora pois até então não temos um agente dedicado às dúvidas do nosso marketplace e isso irá impactar diretamente na nossa volummetria de atendimento humano. 
 
 ---
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [x] Duração máxima de 3 minutos
+- [x] Problema claramente definido
+- [x] Solução demonstrada na prática
+- [x] Diferencial explicado
+- [x] Áudio e vídeo com boa qualidade
 
 ---
 
